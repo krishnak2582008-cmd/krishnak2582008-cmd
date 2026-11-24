@@ -34,7 +34,7 @@ Learning, experimenting, and building projects while strengthening my foundation
 
 ## 📫 Connect With Me
 
-- LinkedIn: Add your LinkedIn profile link here
+- LinkedIn: https://www.linkedin.com/in/krishnakumar-m-796b52433
 - GitHub: You're already here 😄
 
 ---
