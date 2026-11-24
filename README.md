@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hey, I'm Krishna 👋
 
-<!--
-**krishnak2582008-cmd/krishnak2582008-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Engineering student specializing in Cybersecurity  
+💻 Interested in software development, cybersecurity, and technology  
+🚀 Learning by building practical projects and experimenting with new ideas
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+- 🔐 Exploring cybersecurity and computer science
+- 💡 Interested in building useful real-world projects
+- 🌱 Continuously learning programming and development
+- 🧠 Curious about AI, technology, and how things work
+- 🎯 Working towards becoming a skilled engineer and builder
+
+---
+
+## 🛠️ Areas of Interest
+
+- Cybersecurity
+- Software Development
+- Artificial Intelligence
+- Problem Solving
+- Technology & Innovation
+
+---
+
+## 📌 Current Focus
+
+Learning, experimenting, and building projects while strengthening my foundations in computer science and cybersecurity.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your LinkedIn profile link here
+- GitHub: You're already here 😄
+
+---
+
+> "Build. Break. Learn. Improve. Repeat." 🚀
