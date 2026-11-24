@@ -1,42 +1,54 @@
-# Hey, I'm Krishna 👋
 
-🎓 B.Tech Computer Science Engineering student specializing in Cybersecurity  
-💻 Interested in software development, cybersecurity, and technology  
-🚀 Learning by building practical projects and experimenting with new ideas
+<div align="center">
+
+# Krishna Kumar M
+
+### Cybersecurity Student | Developer | Tech Enthusiast
+
+Building, learning, and exploring technology one project at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header" width="100%" />
+
+</div>
+
+## About Me
+
+- 🎓 B.Tech CSE — Cybersecurity
+- 💻 Interested in Software Development and Cybersecurity
+- 🚀 Learning by building real-world projects
+- 🤖 Exploring AI, automation, and emerging technologies
+- 📍 Bengaluru, India
+
+## Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode" />
+</p>
+
+## Currently Learning
+
+- Cybersecurity fundamentals
+- Programming & problem solving
+- Web development
+- Networking and security
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+</p>
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🔐 Exploring cybersecurity and computer science
-- 💡 Interested in building useful real-world projects
-- 🌱 Continuously learning programming and development
-- 🧠 Curious about AI, technology, and how things work
-- 🎯 Working towards becoming a skilled engineer and builder
-
----
-
-## 🛠️ Areas of Interest
-
-- Cybersecurity
-- Software Development
-- Artificial Intelligence
-- Problem Solving
-- Technology & Innovation
-
----
-
-## 📌 Current Focus
-
-Learning, experimenting, and building projects while strengthening my foundations in computer science and cybersecurity.
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: Add your LinkedIn profile link here
-- GitHub: You're already here 😄
-
----
-
-> "Build. Break. Learn. Improve. Repeat." 🚀
+<p align="center">
+  <i>Build. Break. Learn. Improve. Repeat.</i>
+</p>
